@@ -1,0 +1,5 @@
+{
+  "name": "SisContas",
+  "description": "Uma aplicação moderna para gerenciar suas contas a pagar. Cadastre, categorize e acompanhe seus pagamentos de forma fácil, com suporte para contas parceladas, mensais e anuais.",
+  "requestFramePermissions": []
+}
